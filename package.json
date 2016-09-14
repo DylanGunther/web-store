@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/DylanGunther/web-store/issues"
   },
-  "homepage": "https://github.com/DylanGunther/web-store#readme"
+  "homepage": "https://github.com/DylanGunther/web-store#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
